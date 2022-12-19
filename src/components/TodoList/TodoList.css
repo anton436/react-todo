@@ -1,0 +1,8 @@
+.completed {
+  text-decoration: line-through;
+}
+
+.todolist {
+  list-style-type: none;
+  color: purple;
+}
